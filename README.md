@@ -5,14 +5,17 @@
 #Dart & Flutter
 
 1. What is the first step for installing Dart on a Windows machine?
+   
 ans B
+
 A) Install Homebrew
 B) Download the Dart SDK
 C) Update your PATH
 D) Run Dart Doctor
 
 
-2. Which command verifies the Dart installation on macOS?
+3. Which command verifies the Dart installation on macOS?
+   
 ans D
 
 A) dart --install
@@ -22,6 +25,7 @@ D) dart --version
 
 
 3. What is the next step after downloading and extracting the Flutter SDK on Linux?
+   
 Ans B
 
 A) Install Homebrew
@@ -31,6 +35,7 @@ D) Create a new Flutter project
 
 
 4. What command is used to run a newly created Flutter app?
+   
 ans C
 
 A) flutter start
@@ -51,6 +56,7 @@ C) Open the terminal and type sudo apt install python
 D) Install pip manually
 
 Which option should you ensure is checked during Python installation on Windows?
+
 ans C
 
 A) Install with default settings
@@ -59,6 +65,7 @@ C) Add Python to PATH
 D) Install all available features
 
 How do you verify Python installation on any system?
+
 ans A
 
 A) By running python --version
@@ -67,6 +74,7 @@ C) By opening the Python installer again
 D) By checking the Programs and Features in Control Panel
 
 What command is used to install pip on macOS and Linux?
+
 ans B
 
 A) sudo install pip
@@ -75,6 +83,7 @@ C) curl https://bootstrap.pypa.io/get-pip.py -o get-pip.py
 D) python --install pip
 
 What is the purpose of a virtual environment in Python?
+
 ans C
 
 A) To keep your projects organized in one folder
@@ -103,7 +112,9 @@ C) Full
 D) Custom
 
 Which products should you select during the MySQL installation?
+
 ans A
+
 A) MySQL Server, MySQL Workbench, and MySQL Shell
 B) Only MySQL Server
 C) MySQL Server and MySQL Router
